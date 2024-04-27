@@ -14,8 +14,8 @@
   
 **Talking about Personal Stuffs:**
 
-- 💼 I’m currently pursuing my Pre final year of Bachelor's degree in Computer Science at [REVA University](https://reva.edu.in/);
-- 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, etc..;
+- 💼 I’m currently pursuing my Masters degree in Computer Science at [Southern Arkansas University](https://reva.edu.in/);
+- 🤔 My interests are with Data Engineering 🖥️, Data Science 📊, Cricket 🏏, etc..;
 - 🎬 I love watching movies 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via rupesh06082000@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/konduru-rupesh/) to reach me;
