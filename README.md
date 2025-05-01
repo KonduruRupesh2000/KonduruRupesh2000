@@ -3,7 +3,7 @@
 
 <p>
   <em>
-    A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Texas, USA.
+    A <b>Data Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Texas, USA.
   </em>
  </p>
 
@@ -18,7 +18,7 @@
 - 🤔 My interests are with Data Engineering 🖥️, Data Science 📊, Cricket 🏏, etc..;
 - 🎬 I love watching movies 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via rupesh06082000@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/konduru-rupesh/) to reach me;
+- 📫 Please email via rupesh06082000@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/rupesh/) to reach me;
 <br/> 
 </em>
 
