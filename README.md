@@ -14,7 +14,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 💼 I’m completed  my Masters degree in Computer Science;
+- 💼 I completed  my Masters degree in Computer Science;
 - 🤔 My interests are with Data Engineering 🖥️, Data Science 📊, Cricket 🏏, etc..;
 - 🎬 I love watching movies 
 - 💬 Ask me about anything, I am happy to help;
